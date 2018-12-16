@@ -4,7 +4,7 @@
   **This is NOT offcial Scratch Programimg Language.**
 
 This programimg language is VPL(NonVusualProgrammingLanguage).
-Always, Scratch is dwveloped in @[https://scratch.mit.edu/](https://scratch.mit.edu/).  
+Always, Scratch is dwveloped in [https://scratch.mit.edu/](https://scratch.mit.edu/).  
 Howwver , this is GUI only. I looked for CUI but I couldn'fibnd it.
 So, I
 
