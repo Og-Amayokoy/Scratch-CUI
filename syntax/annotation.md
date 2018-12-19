@@ -1,5 +1,18 @@
 # Annotation about this description.
 
-## (var)
+I'll write description about non-VPL version specially.
+Base Scratch syntax is see [here](https://en.scratch-wiki.info/wiki/Programming)
 
-This means variable.
+## (var) - Variable
+
+[Scratch help](https://en.scratch-wiki.info/wiki/Variables_Tutorial)
+
+## (txt) - Text
+
+[Scratch help](https://en.scratch-wiki.info/wiki/String)
+
+## (spr) - sprite 
+
+You can choose from sprite or mouse pointer. 
+
+[Scatch help](https://en.scratch-wiki.info/wiki/Sprite)
