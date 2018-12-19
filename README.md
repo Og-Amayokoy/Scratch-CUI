@@ -1,9 +1,6 @@
 # Scratch-text_based
 
 
-  **This is NOT offcial Scratch Programimg Language.**
-
-
 
 This programimg language is VPL(NonVusualProgrammingLanguage).
 Always, Scratch is dwveloped in [https://scratch.mit.edu/](https://scratch.mit.edu/).  
