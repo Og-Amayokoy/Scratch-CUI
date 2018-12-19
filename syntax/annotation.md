@@ -2,7 +2,7 @@
 
 I'll write description about non-VPL version specially.
 Base Scratch syntax is see [here](https://en.scratch-wiki.info/wiki/Programming)
-
+Please visit [here](https://en.scratch-wiki.info/wiki/Programming).
 ## (var) - Variable
 
 [Scratch help](https://en.scratch-wiki.info/wiki/Variables_Tutorial)
