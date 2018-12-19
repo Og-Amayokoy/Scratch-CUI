@@ -1,4 +1,4 @@
-# looks 
+# Looks block 
 
 Please read [here](https://en.scratch-wiki.info/wiki/Looks_Blocks)
 
