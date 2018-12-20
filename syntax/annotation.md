@@ -15,4 +15,11 @@ Please visit [here](https://en.scratch-wiki.info/wiki/Programming).
 
 You can choose from sprite or mouse pointer. 
 
+## (col) -Color
+
+You can acrete original color by "Color" , "Saturation" and "Brightness".
+
+
+![Colors](./color.png)
+
 [Scatch help](https://en.scratch-wiki.info/wiki/Sprite)
