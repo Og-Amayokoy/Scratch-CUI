@@ -20,7 +20,7 @@ You can choose from sprite or mouse pointer.
 You can acrete original color by "Color" , "Saturation" and "Brightness".
 
 
-![Colors](../picures/color.png)
+![Colors](https://github.com/Yokoyama-Go/Scratch-TextBase/blob/master/pictures/color.png)
 
 ## (tim) - Time
 
