@@ -15,6 +15,6 @@ It means you can write code on elese of Scratch offcial page and can develop on 
 
 # CUI
  
-You can rub scratch at terminal in the future. 
+You can run scratch at terminal in the future. 
 
 sorry, I don't finished to write this.
