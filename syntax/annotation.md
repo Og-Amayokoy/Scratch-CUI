@@ -20,7 +20,7 @@ You can choose from sprite or mouse pointer.
 You can acrete original color by "Color" , "Saturation" and "Brightness".
 
 
-![Colors](./color.png)
+![Colors](../picures/color.png)
 
 ## (tim) - Time
 
