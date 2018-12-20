@@ -22,4 +22,8 @@ You can acrete original color by "Color" , "Saturation" and "Brightness".
 
 ![Colors](./color.png)
 
+## (tim) - Time
+
+You can select from year, month, date, day of week ,hour ,minute, second.
+
 [Scatch help](https://en.scratch-wiki.info/wiki/Sprite)
