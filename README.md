@@ -3,7 +3,7 @@
 
 This programimg language is VPL(NonVusualProgrammingLanguage).　And CUI application execution environment.  
 
-Always, Scratch is developed in [https://scratch.mit.edu/](https://scratch.mit.edu/).  
+Scratch is developed at [https://scratch.mit.edu/](https://scratch.mit.edu/).  
 Howwver , this is GUI only. I looked for CUI but I couldn't fibnd it.
 So, I make new language which Scratch text based.  
 
