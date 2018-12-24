@@ -17,4 +17,8 @@ It means you can write code on elese of Scratch offcial page and can develop on 
  
 You can run scratch at terminal in the future such as node.jp,python,ruby. 
 
+
+
 sorry, I don't finished to write this.
+
+
