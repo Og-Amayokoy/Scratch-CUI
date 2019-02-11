@@ -1,6 +1,6 @@
 # Annotation about this description.
 
-I'll write description about non-VPL version specially.
+I'll write description about CUI version specially.
 Base Scratch syntax is see [here](https://en.scratch-wiki.info/wiki/Programming)
 Please visit [here](https://en.scratch-wiki.info/wiki/Programming).
 ## (var) - Variable
