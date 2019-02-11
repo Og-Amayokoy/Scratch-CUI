@@ -2,7 +2,7 @@
 
 Please read [here](https://en.scratch-wiki.info/wiki/events_Blocks)
 
-There are blocks that not supported on CUI. See follow
+There are blocks that not supported on CUI. See following.
 
 * when this spite clicked
 * when background sprite clicked
