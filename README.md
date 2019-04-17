@@ -2,9 +2,9 @@
 
 **Hey,Yo. Can you help me up?**    
 
-**Pull request? Awsome!**    
+**Pull request? Awsome😀!**    
 
-**Report Issue? Thank you!**  
+**Report Issue? Thank you!😊**  
 
 
 
@@ -16,7 +16,7 @@ So, I make new language which Scratch text based.
 
 Syntax is referred by offcial Scratch v3.
 
-# Non VPL
+# Non GUI
 
 It means you can write code on elese of Scratch offcial page and can develop on text editors(such as [Visual Studio Code](https://code.visualstudio.com/) ,[Vim](https://www.vim.org/), [atom](https://atom.io/), [emacs](https://www.gnu.org/software/emacs/)) in the future.
 
