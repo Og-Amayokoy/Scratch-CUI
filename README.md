@@ -1,8 +1,11 @@
 # Scratch-text_base
 
-**Hey,Yo. Can you help me up? I don't know how to edit sb3 by js?    
-Pull request? Awsome!  
-report Issue? Thank you!  **
+**Hey,Yo. Can you help me up?**    
+
+**Pull request? Awsome!**    
+
+**Report Issue? Thank you!**  
+
 
 
 This programimg language is VPL(NonVusualProgrammingLanguage).　And CUI application execution environment.  
