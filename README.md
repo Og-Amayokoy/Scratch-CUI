@@ -4,7 +4,7 @@
 
 **Pull request? Awsome😀!**    
 
-**Report Issue? Thank you!😊**  
+**Report Issue? Thank you😊!**  
 
 
 
