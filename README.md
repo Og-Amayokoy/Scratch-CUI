@@ -1,5 +1,9 @@
 # Scratch-text_base
 
+Hey,Yo. Can you help me up?
+Pull request? Awsome!
+report Issue? Thank you!
+
 
 This programimg language is VPL(NonVusualProgrammingLanguage).　And CUI application execution environment.  
 
